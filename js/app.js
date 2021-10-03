@@ -1,1 +1,1 @@
-console.log("Min Ga Lar Par")
+console.log("Min Ga Lar Par");
